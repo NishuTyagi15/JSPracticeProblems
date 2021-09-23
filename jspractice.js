@@ -1,1 +1,0 @@
-console.log("Welcome to the JavaScript Practice Problems");
